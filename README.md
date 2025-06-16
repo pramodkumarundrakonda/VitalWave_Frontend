@@ -71,8 +71,4 @@
 
 Contributions are welcome! 
 
----
 
-<div align="center">
-    Made with ❤️ by [Argha Paul](https://github.com/argha-paul-2002)
-</div>
